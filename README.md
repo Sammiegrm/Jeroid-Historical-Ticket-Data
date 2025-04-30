@@ -2,6 +2,7 @@
 # Jeroid-Historical-Ticket-Data<img width="911" alt="Jeroid Dashboard New 2" src="https://github.com/user-attachments/assets/8aaf0d03-f9dc-4951-b8c3-2aaa9ff15171" />
 
 Document link: https://docs.google.com/spreadsheets/d/1ziA8f5O7hJkBkt7OAtYMf-CDsveQDg3_/edit?usp=sharing&ouid=111105667138916533968&rtpof=true&sd=true
+
 This project tells a clear story about support ticket management, company responsiveness, issue types, and resolution efficiency within a given time window. 
 
 In 2024, Foufani Technologies emerged as the top company by ticket volume and resolution, contributing significantly to support ticket traffic. The report covers key metrics such as issue resolution rates, spending by issue type, customer sentiment, and ticket priority — helping stakeholders assess operational efficiency and user experience.
